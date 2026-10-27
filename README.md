@@ -1,30 +1,24 @@
 SARALINOV BEKTUR || DATABASE FALL 2026 || HERE WE GO !
 
-WHAT I NEED TO FINISH: 
+## Repository Contents
 
-1. ORACLE ACADEMY DATABASE COURSES AND UPLOAD MY CERTIFICATE BEFORE THE FINAL EXAM.
-2. FINISH ALL LAB's WORKS.
-3. GOOD ATTENDANCE :)
-4. BE PREPARED AND UNDERSTAND DATABASE
+This repository contains my lab files and screenshots documenting my work for the course.
 
-
-Laboratory Topics
-
-Introduction to Relational Databases
-Installing PostgreSQL and pgAdmin
-Basic psql Commands
-First SQL Query
-Databases Overview
-Tables, Data Types and Constraints
-Primary Keys
-Foreign Keys and Relationships
-Database Design Basics
-Viewing Database and Table Structure
-Basic Data Operations
-Querying Data
-Aggregate Functions
-Joining Tables
-Advanced Querying
-Transactions and ACID properties
-Data Import/Export and Backup
-
+| Lab | Topic |
+|-----|-------|
+| Lab 3 | Basic `psql` Commands |
+| Lab 4 | First SQL Query |
+| Lab 5 | Databases |
+| Lab 6 | Tables, Data Types, and Constraints |
+| Lab 7 | Primary Keys |
+| Lab 8 | Foreign Keys and Relationships |
+| Lab 9 | Database Design Basics |
+| Lab 10 | Viewing Database and Table Structure |
+| Lab 11 | Basic Data Operations |
+| Lab 12 | Querying Data |
+| Lab 13 | Aggregate Functions |
+| Lab 14 | Joining Tables |
+| Lab 15 | Advanced Querying |
+| Lab 16 | Transactions and ACID Properties |
+| Lab 17 | Data Import, Export, and Backup |
+| Oracle Academy | Certificate of Completion |
