@@ -1,24 +1,69 @@
-SARALINOV BEKTUR || DATABASE FALL 2026 || HERE WE GO !
+Databases — Course Repository
 
-## Repository Contents
+Student: Saralinov Bektur
+University: American University of Central Asia (AUCA)
+Program: Software Engineering
+Course: Databases
 
-This repository contains my lab files and screenshots documenting my work for the course.
+About This Repository
 
-| Lab | Topic |
-|-----|-------|
-| Lab 3 | Basic `psql` Commands |
-| Lab 4 | First SQL Query |
-| Lab 5 | Databases |
-| Lab 6 | Tables, Data Types, and Constraints |
-| Lab 7 | Primary Keys |
-| Lab 8 | Foreign Keys and Relationships |
-| Lab 9 | Database Design Basics |
-| Lab 10 | Viewing Database and Table Structure |
-| Lab 11 | Basic Data Operations |
-| Lab 12 | Querying Data |
-| Lab 13 | Aggregate Functions |
-| Lab 14 | Joining Tables |
-| Lab 15 | Advanced Querying |
-| Lab 16 | Transactions and ACID Properties |
-| Lab 17 | Data Import, Export, and Backup |
-| Oracle Academy | Certificate of Completion |
+This repository contains my laboratory assignments and final project for the Database course at the American University of Central Asia (AUCA).
+
+Laboratory Work
+
+The course covers the following topics:
+
+Introduction to Relational Databases
+Installing PostgreSQL and pgAdmin
+Basic psql Commands
+First SQL Query
+Databases Overview
+Tables, Data Types and Constraints
+Primary Keys
+Foreign Keys and Relationships
+Database Design Basics
+Viewing Database and Table Structure
+Basic Data Operations
+Querying Data
+Aggregate Functions
+Joining Tables
+Advanced Querying
+Transactions and ACID Properties
+Data Import/Export and Backup
+Final Project
+
+The final project will be added to this repository as it is developed.
+
+According to the course syllabus, the final project includes:
+
+Database Schema and ER Diagram
+PostgreSQL Database Implementation
+Basic and Advanced SQL Queries
+Transactions and Indexing Demonstration
+Database Backup and Recovery Strategy
+Tools and Technologies
+
+PostgreSQL — Relational Database Management System
+SQL — Database Query Language
+psql — PostgreSQL Command-Line Interface
+pgAdmin — Database Administration and Visualization
+Git & GitHub — Version Control and Repository Management
+Course Policies Acknowledgment
+
+I confirm that I have read and understood the Database course syllabus and acknowledge the course expectations, requirements, and policies.
+
+I understand and agree to the following:
+
+Attendance and Participation: I am expected to attend classes regularly and actively participate in laboratory sessions and course activities.
+
+Laboratory Assignments: I am responsible for completing laboratory assignments and uploading the required work to GitHub or GitLab.
+
+Deadlines and Submissions: I agree to follow the established deadlines and submission procedures, including the instructor's policies regarding late submissions.
+
+Academic Integrity: I understand that plagiarism, unauthorized collaboration, and presenting someone else's work as my own are strictly prohibited.
+
+Responsibility: I am responsible for following the instructor's requirements and protecting my academic work from unauthorized access or copying.
+
+Oracle Academy Requirement: I acknowledge that completing the required Oracle Academy Database course and submitting the completion certificate before the final exam are mandatory.
+
+I agree to follow the course requirements, academic integrity standards, and policies established by the Software Engineering Department and the American University of Central Asia.
