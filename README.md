@@ -1,69 +1,68 @@
-Databases — Course Repository
+# Databases — Course Repository
 
-Student: Saralinov Bektur
-University: American University of Central Asia (AUCA)
-Program: Software Engineering
-Course: Databases
+**Student:** Saralinov Bektur  
+**University:** American University of Central Asia (AUCA)  
+**Program:** Software Engineering  
+**Course:** Databases  
 
-About This Repository
+---
 
-This repository contains my laboratory assignments and final project for the Database course at the American University of Central Asia (AUCA).
+## About This Repository
 
-Laboratory Work
+This repository contains my laboratory assignments and final project for the Databases course at AUCA.
 
-The course covers the following topics:
+The main goal of this course is to learn database design, SQL, and PostgreSQL through practical assignments.
 
-Introduction to Relational Databases
-Installing PostgreSQL and pgAdmin
-Basic psql Commands
-First SQL Query
-Databases Overview
-Tables, Data Types and Constraints
-Primary Keys
-Foreign Keys and Relationships
-Database Design Basics
-Viewing Database and Table Structure
-Basic Data Operations
-Querying Data
-Aggregate Functions
-Joining Tables
-Advanced Querying
-Transactions and ACID Properties
-Data Import/Export and Backup
-Final Project
+## Laboratory Assignments
 
-The final project will be added to this repository as it is developed.
+1. Introduction to Relational Databases
+2. Installing PostgreSQL and pgAdmin
+3. Basic psql Commands
+4. First SQL Query
+5. Databases Overview
+6. Tables, Data Types and Constraints
+7. Primary Keys
+8. Foreign Keys and Relationships
+9. Database Design Basics
+10. Viewing Database and Table Structure
+11. Basic Data Operations
+12. Querying Data
+13. Aggregate Functions
+14. Joining Tables
+15. Advanced Querying
+16. Transactions and ACID Properties
+17. Data Import/Export and Backup
 
-According to the course syllabus, the final project includes:
+## Final Project
 
-Database Schema and ER Diagram
-PostgreSQL Database Implementation
-Basic and Advanced SQL Queries
-Transactions and Indexing Demonstration
-Database Backup and Recovery Strategy
-Tools and Technologies
+The final project will include:
 
-PostgreSQL — Relational Database Management System
-SQL — Database Query Language
-psql — PostgreSQL Command-Line Interface
-pgAdmin — Database Administration and Visualization
-Git & GitHub — Version Control and Repository Management
-Course Policies Acknowledgment
+- Database Schema and ER Diagram
+- PostgreSQL Implementation
+- Basic and Advanced SQL Queries
+- Transactions and Indexing
+- Database Backup and Recovery
 
-I confirm that I have read and understood the Database course syllabus and acknowledge the course expectations, requirements, and policies.
+The project will be added to this repository as it is developed.
 
-I understand and agree to the following:
+## Tools and Technologies
 
-Attendance and Participation: I am expected to attend classes regularly and actively participate in laboratory sessions and course activities.
+- PostgreSQL
+- SQL
+- psql
+- pgAdmin
+- Git and GitHub
 
-Laboratory Assignments: I am responsible for completing laboratory assignments and uploading the required work to GitHub or GitLab.
+## Course Policies Acknowledgment
 
-Deadlines and Submissions: I agree to follow the established deadlines and submission procedures, including the instructor's policies regarding late submissions.
+I confirm that I have read and understood the Database course syllabus and agree to follow the course requirements and policies.
 
-Academic Integrity: I understand that plagiarism, unauthorized collaboration, and presenting someone else's work as my own are strictly prohibited.
+I understand that:
 
-Responsibility: I am responsible for following the instructor's requirements and protecting my academic work from unauthorized access or copying.
+- I must attend classes and participate in laboratory activities.
+- I am responsible for completing and submitting assignments on time.
+- I must follow academic integrity rules and avoid plagiarism.
+- I must follow the instructor's requirements and submission guidelines.
+- I must complete the required Oracle Academy Database course and submit the certificate before the final exam.
 
-Oracle Academy Requirement: I acknowledge that completing the required Oracle Academy Database course and submitting the completion certificate before the final exam are mandatory.
-
-I agree to follow the course requirements, academic integrity standards, and policies established by the Software Engineering Department and the American University of Central Asia.
+I agree to follow the academic policies of AUCA and the Software Engineering Department.
